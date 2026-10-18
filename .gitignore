@@ -1,0 +1,11 @@
+venv/
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+data/chroma/
+data/eval_chroma/
+data/uploads/
+data/*.pdf
+.DS_Store
+.vscode/
